@@ -1,0 +1,60 @@
+    * August 25th, 2008
+	Reminder on DATE/TIME
+
+    * 25 Aug 2008
+	Reminder on DATE/TIME
+
+    * Aug 25 5pm
+	Reminder on DATE/TIME
+
+    * 5pm August 25
+	Reminder on DATE/TIME
+
+    * next saturday
+	Reminder DATE/TIME
+
+    * tomorrow
+	Reminder DATE/TIME	
+
+    * next thursday at 4pm
+	Reminder DATE/TIME
+
+    * at 4pm
+	Reminder  DATE/TIME (at included in DATE/TIME)
+
+    * eod
+	Reminder DATE/TIME
+        DATE/TIME Reminder 
+
+    * tomorrow eod
+	Reminder DATE/TIME
+        DATE/TIME Reminder 	
+
+    * eod tuesday
+	Reminder DATE/TIME
+        DATE/TIME Reminder 	
+	
+    * eoy
+	Reminder DATE/TIME
+        DATE/TIME Reminder 	
+
+    * eom
+	Reminder DATE/TIME
+        DATE/TIME Reminder 	
+
+    * in 5 minutes
+	Reminder DATE/TIME (in  included in DATE/TIME)
+        DATE/TIME Reminder (in  included in DATE/TIME)
+	
+    * 5 minutes from now
+	Reminder DATE/TIME
+        DATE/TIME Reminder 	
+
+
+    * 2 days from tomorrow 
+	Reminder DATE/TIME
+        DATE/TIME Reminder 	
+	
+    * 5 hours before now [X]
+    * 2 hours before noon [X]
+

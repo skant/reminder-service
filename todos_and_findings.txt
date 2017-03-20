@@ -1,0 +1,16 @@
+* Removing spaces from user message
+	Step 1. Remove leading and trailing spaces.
+		msg = "  Remind  me     in two days "
+		stripped_msg  = str.strip(msg)
+		# stripped_msg = "Remind  me     in two days"
+
+	Step 2. Replace 2 or more spaces with one space.
+		spaces_regex = re.compile( r'\s+')
+		clean_msg  = spaces_regex.sub(" ", stripped_msg)
+		# clean_msg = "Remind me in two days"
+
+===============================================================================	
+January 25th, 2008 12:09:12
+((2008, 1, 25, 12, 9, 12, 2, 147, 0), 3)
+
+d = (2008, 1, 25, 12, 9, 12, 2, 147, 0)
